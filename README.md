@@ -1,4 +1,4 @@
-#AES 256 CBC(Chipher Block Chaining) encryption/decryption sample code
+#AES 256 CBC(Chipher Block Chaining) encryption/decryption Sample code
 This sample demo how to use AES 256 CBC to encrypt/decrypt plaintext. (256 means key length is 256 bits)
 
 ![result link](http://139.162.35.49/image/Linux-Programming/AES_256_CBC_encryption_20160422.png)
