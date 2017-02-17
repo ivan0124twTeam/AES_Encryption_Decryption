@@ -10,7 +10,7 @@ $ sudo apt-get libssl-dev
 </pre>
 
 #Code Description
-1. include header files: [app_a.c](https://github.com/ivan0124/Linux-programming/blob/master/user_AES_256_CBC_encrypt_decrypt/app_src/app_a/app_a.c)
+1. include header files: [app_a.c](./app_src/app_a/app_a.c)
 <pre>
 ...
 #include < openssl/aes.h >
